@@ -6,6 +6,8 @@
     --error-color: orangered;
 
 
+
+
 }
 
 *{
@@ -62,8 +64,8 @@ position: relative;
 .form-control input:focus{
     outline:  0;
     border-color: #777;
-}
 
+}
 .form-control.success input{
    border-color: var(--succes-color);
 }
